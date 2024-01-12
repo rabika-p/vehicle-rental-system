@@ -29,7 +29,7 @@ Records that already exist and are stored in a binary file can be loaded after p
 
 ###	Adding Vehicles:
 
-<img width="698" alt="add java" src="https://user-images.githubusercontent.com/60596856/219425791-ebdef591-c0ee-4a26-ba7b-d9bb4c3ca402.PNG">
+<img width="949" alt="Capture" src="https://github.com/rabika-p/vehicle-rental-system/assets/60596856/205e1e0a-f753-4c99-8949-34392697678b">
 
 Adding vehicles has similar functionalities as adding customers. Vehicles records are categorized into cars, mini-buses and lorries. Press on save to file after display is pressed to save data for individual types of vehicles. 
 
